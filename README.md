@@ -1,4 +1,5 @@
 # Spotify Share Your Liked Songs
+Spotify don't allow to share your liked songs directly, this script copies your liked songs in a given playlist so that you can share the same.
 
 Note: This only works for desktop browser
 
@@ -30,7 +31,7 @@ Click on the entry that starts with "tracks"
 
 7. Once you are ready with the values of `authorization`, `client-token`, `playlistId` click the bookmark created in step 0. it will ask for 3 values so enter the same.
 
-If done right you will see your liked songs in the playlist you created in step 2.
+8. If done right you will see your liked songs in the playlist you created in step 2. Now you can share this playlist which have your liked songs
 
 
 For any feedback/help you can mail : him.10meena@gmail.com
