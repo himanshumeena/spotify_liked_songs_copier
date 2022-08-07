@@ -1,7 +1,7 @@
 # Spotify Share Your Liked Songs
 Spotify don't allow to share your liked songs directly, this script copies your liked songs in a given playlist so that you can share the same.
 
-Note: This only works for desktop browser
+Note: This only works with desktop browser
 
 ## Steps to use this tool
 0. create a new bookmark. edit the bookmart and in the url paste the content of the file [spotify.js](https://github.com/himanshumeena/spotify_liked_songs_copier/blob/master/spotify.js). this script will do the copy job.
