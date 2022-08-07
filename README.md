@@ -14,7 +14,7 @@ example: `2CoIt4CG4bzXcjlhs0QPNJ` for given screenshot
 ![Screenshot 2022-08-07 at 4 42 07 PM](https://user-images.githubusercontent.com/20402232/183287857-2cc1cc2a-8eec-4558-8b9b-716864aadac5.png)
 
 3. We also need `authorization` `clientToken` values of your spotify account for this we will use chrome devtools. Open devtools in chrome
-Note: `authorization` `clientToken` values are valid only for 6 mins so you need to get these values again by doing below steps if you want to copy songs again
+Note: `authorization` `clientToken` values are valid only for 6 mins so you need to get these values again by doing below steps if you want to copy songs in future
 
 ![Screenshot 2022-08-07 at 4 37 44 PM](https://user-images.githubusercontent.com/20402232/183287747-cccceb6b-794b-4a1c-b549-edb3b655a306.png)
 
