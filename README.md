@@ -1,6 +1,6 @@
 # Spotify Share Your Liked Songs
 
-Note: This only works for desktop browser, and you will need your account tokens of your spotify account as mentioned below to use this script
+Note: This only works for desktop browser
 
 ## Steps to use this tool
 0. create a new bookmark. edit the bookmart and in the url paste the content of the file [spotify.js](https://github.com/himanshumeena/spotify_liked_songs_copier/blob/master/spotify.js). this script will do the copy job.
